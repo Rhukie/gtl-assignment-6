@@ -35,7 +35,7 @@ body {
     margin-left: 2em;
     padding-left: 0.5em;
     padding-bottom: 2.5em;
-    box-shadow: 1px 2.5px 2px 1px #ff0000;
+    box-shadow: 1px 2.5px 2px 1px #f19090;
     
 }
 .fa-caret-up {
@@ -129,10 +129,10 @@ h1{
         display: block;
     }
     .cases {
-        width: 100%;
+        width: 88%;
         margin-bottom: 2em;
     }
-    .data table{
+    /* .data table{
         display: block;
         width: 100%;
         font-size: 0.8em;
@@ -160,5 +160,5 @@ h1{
         color:green; 
         font-size: 1em;
         font-family: cursive;
-    }
+    } */
 }
